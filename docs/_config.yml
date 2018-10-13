@@ -1,4 +1,4 @@
-remote_theme: jekyll-theme-cayman
 locale: es-MX
 title: "Laboratorio de Neurocognición Social"
 description: "Neurocognición Social"
+theme: jekyll-theme-cayman
