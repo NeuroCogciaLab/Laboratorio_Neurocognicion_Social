@@ -4,6 +4,7 @@ layout: default
 
 ## Contacto:
 **Azalea Reyes Aguilar**
+
 *Facultad de Psicología, UNAM*
 
 Av. Universidad 3004, Col. Copilco-Universidad, Coyoacán, CDMX, 04510
