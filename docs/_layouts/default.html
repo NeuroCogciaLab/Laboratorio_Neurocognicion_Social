@@ -20,7 +20,19 @@
     <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
   </head>
   <body>
-    <a id="skip-to-content" href="#content">Skip to the content.</a>
+	<nav>
+    	<ul>
+    	{% for link in site.navigation %}
+        	{% assign current = nil %}
+        	{% if page.url contains link.url %}
+            	{% assign current = 'current' %}
+        	{% endif %}
+        	<li class="element {% if forloop.first %}first{% endif %} {{ current }} {% if forloop.last %}last{% endif %}">
+            	<a href="{{ link.url }}">{{ link.title }}</a>
+        	</li>
+    	{% endfor %}
+    	</ul>
+	</nav>
 
     <header class="page-header" role="banner">
       <h1 class="project-name">{{ site.title | default: site.github.repository_name }}</h1>
