@@ -17,14 +17,21 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="theme-color" content="#157878">
     <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+    <link href="//maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css" rel="stylesheet">
     <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
   </head>
   <body>
 
     <header class="page-header" role="banner">
-	<nav>
-    		<ul>
-    		{% for link in site.navigation %}
+	<div class="container">
+	<div>   
+              <label class="mobile_menu" for="mobile_menu">
+        ¦     <span>Menu</span>
+        ¦     </label>
+        ¦     <input id="mobile_menu" type="checkbox">
+        ¦     <ul class="nav">
+        ¦     <li><a href="#"><i class="icon-home icon-large"></i></a></li>
+			{% for link in site.navigation %}
        			{% assign current = nil %}
         		{% if page.url contains link.url %}
 	   			{% assign current = 'current' %}
@@ -34,7 +41,8 @@
         		</li>
     		{% endfor %}
     		</ul>
-	</nav>
+	</div>
+	</div>
       <h1 class="project-tagline">{{ site.description | default: site.github.project_tagline }}</h1>
       <h2 class="project-name">{{ site.title | default: site.github.repository_name }}</h2>
       <a href="/contacto" class="btn">Contacto</a>
