@@ -25,11 +25,11 @@ label.mobile_menu span {
 	line-height: 13px;
 
  
-	position: relative;
+	position: fixed;
 	padding: 0 0 0 4px; /* Fix for inline-block spacing*/
 	margin: 0;
-
- 
+	top: 0; 
+	width: 100%; 
 	background: rgba(26, 188, 156, 0.5);
 }
 
