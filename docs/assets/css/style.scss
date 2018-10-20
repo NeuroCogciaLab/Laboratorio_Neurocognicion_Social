@@ -30,7 +30,7 @@ label.mobile_menu span {
 	margin: 0;
 	top: 0; 
 	width: 100%; 
-	background: rgba(26, 188, 156, 0.5);
+	background: rgba(0, 0, 0, 0);
 }
 
 
@@ -58,7 +58,7 @@ label.mobile_menu span {
 }
 
 .nav > li:hover {
-	background: rgba(26, 188, 156, 0.5);
+	background: rgba(0, 0, 0, 0.5);
 }
 
 
@@ -69,7 +69,7 @@ label.mobile_menu span {
 	position: absolute;
 	list-style: none;
 	top:53px;
-	background: rgba(22, 160, 133, 0.5);
+	background: rgba(0, 0, 0, 0);
 	width: 200px;
 	text-align: left;
 	margin-top:30px;
@@ -93,7 +93,7 @@ label.mobile_menu span {
 }
 
 .nav > li > ul  li:hover {
-	background: rgba(0, 97, 145, 0.5);
+	background: rgba(0, 0, 0, 0.5);
 }
 
 .nav ul  li:hover > a {
@@ -101,11 +101,11 @@ label.mobile_menu span {
 }
 
 .nav > li > ul li ul li:hover {
-	background: rgba(0, 75, 111, 0.5);
+	background: rgba(0, 0, 0, 0.5);
 }input#mobile_menu { display: none; }
 
 .nav > li > ul li ul li ul {
-	background: rgba(0, 75, 111, 0.5);
+	background: rgba(0, 0, 0, 0);
 }
 
 .nav > li > ul li ul li ul li:hover {
@@ -121,7 +121,7 @@ label.mobile_menu span {
 	list-style: none;
 	top:53px;
 	left: 0px;
-	background: rgba(22, 160, 133, 0.5);
+	background: rgba(0, 0, 0, 0);
 	width: 100%;
 	min-height: 100px;
 	text-align: left;
