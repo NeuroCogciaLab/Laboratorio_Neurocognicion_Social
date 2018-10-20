@@ -25,19 +25,19 @@
     <header class="page-header" role="banner">
 	<div class="container">
 	<div>   
-              <label class="mobile_menu" for="mobile_menu">
-        ¦     <span>Menu</span>
-        ¦     </label>
-        ¦     <input id="mobile_menu" type="checkbox">
-        ¦     <ul class="nav">
-        ¦     <li><a href="#"><i class="icon-home icon-large"></i></a></li>
+        	<label class="mobile_menu" for="mobile_menu">
+        	<span>Menu</span>
+        	</label>
+        	<input id="mobile_menu" type="checkbox">
+        	<ul class="nav">
+        	<li><a href="#"><i class="icon-home icon-large"></i></a></li>
 			{% for link in site.navigation %}
        			{% assign current = nil %}
         		{% if page.url contains link.url %}
-	   			{% assign current = 'current' %}
+				{% assign current = 'current' %}
         		{% endif %}
         		<li class="element {% if forloop.first %}first{% endif %} {{ current }} {% if forloop.last %}last{% endif %}">
-            		<a href="{{ link.url }}">{{ link.title }}</a>
+        		<a href="{{ link.url }}">{{ link.title }}</a>
         		</li>
     		{% endfor %}
     		</ul>
