@@ -8,3 +8,5 @@ navigation:
    url: /index.html
  - title: Contacto
    url: /contacto
+- title: Proyectos
+   url: /proyectos
