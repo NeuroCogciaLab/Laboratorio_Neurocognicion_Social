@@ -3,15 +3,15 @@ description: "Neurocognición Social"
 theme: jekyll-theme-cayman
 
 navigation:
- - title: Neurocogcialab
-   url: /index.html
-- title: Miembros
-   url: /miembros
-- title: Proyectos
-   url: /proyectos
-- title: Publicaciones
-   url: /publicaciones
- - title: Colaboraciones
-   url: /colaboraciones
-- title: Contacto
-   url: /contacto
+  - title: Neurocogcialab
+    url: /index
+  - title: Miembros
+    url: /miembros
+  - title: Proyectos
+    url: /proyectos
+  - title: Publicaciones
+    url: /publicaciones
+   - title: Colaboraciones
+    url: /colaboraciones
+  - title: Contacto
+    url: /contacto
