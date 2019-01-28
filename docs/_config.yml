@@ -4,8 +4,8 @@ description: "Neurocognición Social"
 theme: jekyll-theme-cayman
 
 navigation:
- - title: Inicio
-   url: /index.html
+ - title: Neurocogcialab 
+   url: /index
  - title: Contacto
    url: /contacto
 - title: Proyectos
