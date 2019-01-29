@@ -9,16 +9,16 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="150"
-   height="25"
-   viewBox="0 0 150 25"
+   width="130.32399"
+   height="19.615988"
+   viewBox="0 0 130.32399 19.615988"
    id="svg2"
    version="1.1"
    inkscape:version="0.91 r13725"
    sodipodi:docname="logo_neurocogcialab.svg"
    inkscape:export-filename="/home/nekrum/Azalea/Laboratorio_Neurocognicion_Social/docs/assets/img/logo_neurocogcialab.png"
-   inkscape:export-xdpi="90"
-   inkscape:export-ydpi="90">
+   inkscape:export-xdpi="91.761887"
+   inkscape:export-ydpi="91.761887">
   <defs
      id="defs4" />
   <sodipodi:namedview
@@ -26,20 +26,24 @@
      pagecolor="#ffffff"
      bordercolor="#666666"
      borderopacity="1.0"
-     inkscape:pageopacity="0.0"
+     inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:zoom="11.2"
-     inkscape:cx="118.92133"
-     inkscape:cy="37.249694"
+     inkscape:zoom="3.959798"
+     inkscape:cx="157.66304"
+     inkscape:cy="-20.269465"
      inkscape:document-units="px"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="g10563"
      showgrid="false"
      units="px"
-     inkscape:window-width="4472"
+     inkscape:window-width="3130"
      inkscape:window-height="1813"
-     inkscape:window-x="0"
+     inkscape:window-x="1342"
      inkscape:window-y="26"
-     inkscape:window-maximized="0" />
+     inkscape:window-maximized="0"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0" />
   <metadata
      id="metadata7">
     <rdf:RDF>
@@ -56,7 +60,7 @@
      inkscape:label="Capa 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(0,-1027.3621)">
+     transform="translate(-19.347962,-1034.8411)">
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:142.5px;line-height:125%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -70,27 +74,37 @@
          y="1034.6835" /></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:13.17715263px;line-height:125%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="89.810638"
-       y="1048.1919"
+       style="font-style:normal;font-weight:normal;font-size:15.19111061px;line-height:125%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="88.430672"
+       y="996.74841"
        id="text4140"
-       sodipodi:linespacing="125%"><tspan
+       sodipodi:linespacing="125%"
+       transform="scale(0.9498372,1.052812)"><tspan
          sodipodi:role="line"
          id="tspan4142"
-         x="89.810638"
-         y="1048.1919"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:15.81258297px;line-height:125%;font-family:Laksaman;-inkscape-font-specification:'Laksaman Bold';text-align:center;writing-mode:lr-tb;text-anchor:middle">NeurocogciaLab</tspan></text>
+         x="88.430672"
+         y="996.74841"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:18.22932816px;line-height:125%;font-family:Laksaman;-inkscape-font-specification:'Laksaman Bold';text-align:center;writing-mode:lr-tb;text-anchor:middle">NeurocogciaLab</tspan></text>
     <text
        sodipodi:linespacing="125%"
        id="text4144"
-       y="1048.7939"
-       x="90.187134"
-       style="font-style:normal;font-weight:normal;font-size:13.17715263px;line-height:125%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#ffffff;fill-opacity:0.89814812;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       xml:space="preserve"><tspan
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:15.81258297px;line-height:125%;font-family:Laksaman;-inkscape-font-specification:'Laksaman Bold';text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;fill-opacity:0.89814812"
-         y="1048.7939"
-         x="90.187134"
+       y="997.44275"
+       x="88.86467"
+       style="font-style:normal;font-weight:normal;font-size:15.19111061px;line-height:125%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#ffffff;fill-opacity:0.89814812;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"
+       transform="scale(0.9498372,1.052812)"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:18.22932816px;line-height:125%;font-family:Laksaman;-inkscape-font-specification:'Laksaman Bold';text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;fill-opacity:0.89814812"
+         y="997.44275"
+         x="88.86467"
          id="tspan4146"
          sodipodi:role="line">NeurocogciaLab</tspan></text>
+    <g
+       id="g10563"
+       transform="matrix(0.06898964,0,0,0.06898964,-33.495563,1023.095)" />
   </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer8"
+     inkscape:label="Capa 2"
+     transform="translate(-53.099074,-12.001563)" />
 </svg>
