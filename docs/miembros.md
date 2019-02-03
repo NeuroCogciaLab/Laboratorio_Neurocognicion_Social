@@ -3,6 +3,7 @@ layout: default
 ---
 
 ## Azalea Reyes Aguilar 
+![](aza.png)
 
 ### Profesor
 
@@ -13,16 +14,16 @@ azaleara@comunidad.unam.mx; azalea@neurocogcialab.org
 Neurociencias cognitivas, sociales y afectivas. Actualmente me interesa estudiar los cambios neurocognitivos sociales y emocionales asociados a la experiencia reproductiva.
 
 #### Twitter:
-@azaleareyaguila
+[azaleareyaguila](https://twitter.com/azaleareyaguila)
 
 #### GitHub:
-https://github.com/azaleara
+[azaleara](https://github.com/azaleara)
 
 #### Linkedin 
-https://www.linkedin.com/in/azalea-reyes-aguilar-5a328b70
+[Azalea](https://www.linkedin.com/in/azalea-reyes-aguilar-5a328b70)
 
 #### ResearchGate
-https://www.researchgate.net/profile/Azalea_Reyes_Aguilar
+[Azalea](https://www.researchgate.net/profile/Azalea_Reyes_Aguilar)
 
 
 
@@ -38,6 +39,8 @@ karlangvary@outlook.com
 Egresada de la Facultad de Psicología, UNAM. Realizó una Estancia de Investigación en el Instituto de Investigación Biomédica de Cádiz (INIBICA), España; en donde colaboro en un proyecto relacionado con el registro de señales electrofisiológicas en humanos, en colaboración con la Universidad Loyola Andalucía (ULA). Actualmente realiza su tesis de grado en Empatía y Personalidad. Áreas de interés: Neurocognición, empatía, lenguaje.
 
 
+
+
 ## Ana Karen Rodríguez Chávez 
 
 ### Servicio Social, Licenciatura en psicología
@@ -50,13 +53,17 @@ Neurobiología de las adicciones y de las emociones; enfermedades neurodegenerat
 
 
 
-## Javier
+
+
+## Javier Antonio Trocino García
 
 ### Servicio Social, Licenciatura en psicología 
 
 #### Correo electrónico:
-#### Intereses en investigación:
+trozorocks@gmail.com
 
+#### Intereses en investigación:
+Psicobiología y neurociencias y Enfermedades Neurodegenerativas.
 
 
 ## Diana Quetzali Ramos Ramírez
@@ -71,6 +78,8 @@ Neurocognición y conducta; enfermedades neurodegenerativas; neurobiología de l
 
 
 
+
+
 ## Brenda Celeste Díaz Hernández
 
 ### Prácticas en investigación, Licenciatura en psicología 
@@ -80,6 +89,8 @@ brenda.celeste.diaz.h@gmail.com
 
 #### Intereses en investigación:
 Neurocognición; trastornos del sueño; demencias; cognición social y psicología organizacional.
+
+
 
 
 
