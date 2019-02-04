@@ -10,7 +10,7 @@ layout: default
 Neurociencias cognitivas, sociales y afectivas. Actualmente me interesa estudiar los cambios neurocognitivos sociales y emocionales asociados a la experiencia reproductiva.
 
 #### Correo electrónico: 
-<azaleara@comunidad.unam.mx>
+<azaleara@comunidad.unam.mx> ;
 <azalea@neurocogcialab.org>
 
 #### Twitter:
