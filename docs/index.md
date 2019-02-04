@@ -1,8 +1,8 @@
 ---
 layout: default 
 ---
-
-Somos un grupo de trabajo en la facultad de psicología de la UNAM en Ciudad Universitaria que estamos uniendo esfuerzo y conocimiento para contestar preguntas de investigación relacionadas a neurocognición social. Este esfuerzo involucra el uso de técnicas conductuales y de neuroimagen. 
+Somos un grupo de trabajo en la facultad de psicología de la UNAM en Ciudad Universitaria que estamos uniendo esfuerzo y conocimiento para contestar preguntas de investigación relacionadas a neurocognición social. Este esfuerzo involucra el uso de técnicas conductuales y de neuroimagen.
+![](LabNeurocogcial.png) {.foto_grupal}
 
 La investigación en el **Laboratorio de Neurocognición Social** abarca líneas de investigación asociadas a los procesos cognitivos y neurobiológicos durante las interacciones sociales en humanos: 
 

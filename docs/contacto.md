@@ -11,23 +11,17 @@ correo electrónico:
 azaleara@comunidad.unam.mx; azalea@neurocogcial.org
 
 
+## Comunícate con nosotros:
 ### Laboratorio de Neurocognición Social
-memberslab@neurocogcialab.org 
-
+[Escríbenos un correo electrónico](mailito:memberslab@neurocogcialab.org)
 
 ### Redes Sociales
-facebook
-twitter
-instagram
+[facebook](https://www.facebook.com/Laboratorio-de-Neurocognici%C3%B3n-Social-362670361231762/)
+
+[twitter](https://twitter.com/neurocogcialab?lang=en) 
+
+[instagram](https://www.instagram.com/neurocogcialab/?hl=en)
 
 
 ### Facultad de Psicología, UNAM
-www.psicologia.unam.mx
-
-
-### Comunícate con nosotros:
-Nombre:
-Correo electrónico:
-Teléfono:
-Institución:
-Mensaje:
+[Nuestra casa, pase usted!](www.psicologia.unam.mx)
