@@ -2,8 +2,9 @@
 layout: default 
 ---
 
+
 ## Azalea Reyes Aguilar 
-![](aza.png)
+![](aza2.png)
 
 ### Profesor
 
@@ -25,8 +26,7 @@ Neurociencias cognitivas, sociales y afectivas. Actualmente me interesa estudiar
 #### ResearchGate
 [Azalea](https://www.researchgate.net/profile/Azalea_Reyes_Aguilar)
 
-
-
+**********
 
 ## Karla Angélica Vargas Reyes
 
@@ -38,8 +38,7 @@ karlangvary@outlook.com
 #### Intereses en investigación:
 Egresada de la Facultad de Psicología, UNAM. Realizó una Estancia de Investigación en el Instituto de Investigación Biomédica de Cádiz (INIBICA), España; en donde colaboro en un proyecto relacionado con el registro de señales electrofisiológicas en humanos, en colaboración con la Universidad Loyola Andalucía (ULA). Actualmente realiza su tesis de grado en Empatía y Personalidad. Áreas de interés: Neurocognición, empatía, lenguaje.
 
-
-
+**********
 
 ## Ana Karen Rodríguez Chávez 
 
@@ -51,9 +50,7 @@ neurokapsi@gmail.com
 #### Intereses en investigación:
 Neurobiología de las adicciones y de las emociones; enfermedades neurodegenerativas y del neurodesarrollo; neurobiología de la conducta social modulada por diferentes contextos.
 
-
-
-
+**********
 
 ## Javier Antonio Trocino García
 
@@ -65,6 +62,7 @@ trozorocks@gmail.com
 #### Intereses en investigación:
 Psicobiología y neurociencias y Enfermedades Neurodegenerativas.
 
+**********
 
 ## Diana Quetzali Ramos Ramírez
 
@@ -76,9 +74,7 @@ ramosra.diana475@gmail.com
 #### Intereses en investigación:
 Neurocognición y conducta; enfermedades neurodegenerativas; neurobiología de las adicciones y actividades socio-culturales.
 
-
-
-
+**********
 
 ## Brenda Celeste Díaz Hernández
 
@@ -90,9 +86,7 @@ brenda.celeste.diaz.h@gmail.com
 #### Intereses en investigación:
 Neurocognición; trastornos del sueño; demencias; cognición social y psicología organizacional.
 
-
-
-
+**********
 
 ## Estefanía Pérez Perea
 
