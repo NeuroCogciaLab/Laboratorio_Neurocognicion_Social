@@ -5,7 +5,7 @@ layout: default
 Como grupo de trabajo, nos interesa colaborar con otros laboratorios de la UNAM. 
 
 ## Colaboramos con AprendR
-Como parte de las actividades que realizamos en el laboratorio, desarrollamos aplicaciones en R y Python para el procesamiento de datos e implementación de modelos estadísticos. También impartimos cursos y talleres de R y de la plataforma Psychopy (Python), esto en colaboración con la iniciativa 'aprendr.org'
+Como parte de las actividades que realizamos en el laboratorio, desarrollamos aplicaciones en R y Python para el procesamiento de datos e implementación de modelos estadísticos. También impartimos cursos y talleres de R y de la plataforma Psychopy (Python), esto en colaboración con la iniciativa [aprendr.org](https://aprendr.org/).
 
 ### *Un código libre para una psicología replicable*
 Otro de los objetivos centrales que acompaña a nuestras actividades es mejorar las transparencia y replicabilidad de la investigación en psicología, para lo cual buscamos mantenernos activos en plataformas como github, Open Science Reproducibility Project, Human Connectome Project.
@@ -23,4 +23,4 @@ Las actividades en las cuales participarás incluyen:
 
 
 ## ¿Cómo participar como voluntari@ en nuestros proyectos?
-Si te interesa ser parte de los voluntarios en nuestras investigaciónes, puedes comunicarte con nosotros a memberslab@neurocogcialab.org
+Si te interesa ser parte de los voluntarios en nuestras investigaciónes, puedes comunicarte con nosotros a <memberslab@neurocogcialab.org>
