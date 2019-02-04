@@ -21,4 +21,4 @@ Para una adecuada interacción social se requiere de entener las intenciones y e
 
 
 ## ¿Cómo participar como voluntari@ en nuestros proyectos?
-Si te interesa ser parte de los voluntarios en nuestras investigaciónes, puedes comunicarte con nosotros a memberslab@neurocogcialab.org 
+Si te interesa ser parte de los voluntarios en nuestras investigaciónes, puedes comunicarte con nosotros a <memberslab@neurocogcialab.org>
