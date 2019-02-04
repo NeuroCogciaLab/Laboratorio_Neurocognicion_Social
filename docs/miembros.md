@@ -10,8 +10,8 @@ layout: default
 Neurociencias cognitivas, sociales y afectivas. Actualmente me interesa estudiar los cambios neurocognitivos sociales y emocionales asociados a la experiencia reproductiva.
 
 #### Correo electrónico:
-:e-mail: <azaleara@comunidad.unam.mx> ;
-:e-mail: <azalea@neurocogcialab.org>
+:e-mail:  <azaleara@comunidad.unam.mx> ;
+:e-mail:  <azalea@neurocogcialab.org>
 
 #### Twitter:
 [azaleareyaguila](https://twitter.com/azaleareyaguila)
@@ -31,7 +31,7 @@ Neurociencias cognitivas, sociales y afectivas. Actualmente me interesa estudiar
 ### Tesista, Licenciatura en psicología 
 
 #### Correo electrónico:
-:e-mail: <karlangvary@outlook.com>
+:e-mail:  <karlangvary@outlook.com>
 
 #### Intereses en investigación:
 Egresada de la Facultad de Psicología, UNAM. Realizó una Estancia de Investigación en el Instituto de Investigación Biomédica de Cádiz (INIBICA), España; en donde colaboro en un proyecto relacionado con el registro de señales electrofisiológicas en humanos, en colaboración con la Universidad Loyola Andalucía (ULA). Actualmente realiza su tesis de grado en Empatía y Personalidad. Áreas de interés: Neurocognición, empatía, lenguaje.
@@ -42,7 +42,7 @@ Egresada de la Facultad de Psicología, UNAM. Realizó una Estancia de Investiga
 ### Servicio Social, Licenciatura en psicología
 
 #### Correo electrónico: 
-:e-mail: <neurokapsi@gmail.com>
+:e-mail:  <neurokapsi@gmail.com>
 
 #### Intereses en investigación:
 Neurobiología de las adicciones y de las emociones; enfermedades neurodegenerativas y del neurodesarrollo; neurobiología de la conducta social modulada por diferentes contextos.
@@ -53,7 +53,7 @@ Neurobiología de las adicciones y de las emociones; enfermedades neurodegenerat
 ### Servicio Social, Licenciatura en psicología 
 
 #### Correo electrónico:
-:e-mail: <trozorocks@gmail.com>
+:e-mail:  <trozorocks@gmail.com>
 
 #### Intereses en investigación:
 Psicobiología y neurociencias y Enfermedades Neurodegenerativas.
@@ -64,7 +64,7 @@ Psicobiología y neurociencias y Enfermedades Neurodegenerativas.
 ### Prácticas en investigación, Licenciatura en psicología 
 
 #### Correo electrónico:
-:e-mail: <ramosra.diana475@gmail.com>
+:e-mail:  <ramosra.diana475@gmail.com>
 
 #### Intereses en investigación:
 Neurocognición y conducta; enfermedades neurodegenerativas; neurobiología de las adicciones y actividades socio-culturales.
@@ -75,7 +75,7 @@ Neurocognición y conducta; enfermedades neurodegenerativas; neurobiología de l
 ### Prácticas en investigación, Licenciatura en psicología 
 
 #### Correo electrónico:
-:e-mail: <brenda.celeste.diaz.h@gmail.com>
+:e-mail:  <brenda.celeste.diaz.h@gmail.com>
 
 #### Intereses en investigación:
 Neurocognición; trastornos del sueño; demencias; cognición social y psicología organizacional.
@@ -86,7 +86,7 @@ Neurocognición; trastornos del sueño; demencias; cognición social y psicolog�
 ### Prácticas en investigación, Licenciatura en psicología 
 
 #### Correo electrónico:
-:e-mail: <estefaniap.perea@gmail.com>
+:e-mail:  <estefaniap.perea@gmail.com>
 
 #### Intereses en investigación:
 Enfermedades neurodegenerativas; neurocognición y actividades culturales. 
