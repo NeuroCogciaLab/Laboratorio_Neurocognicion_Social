@@ -9,7 +9,7 @@ layout: default
 #### Intereses en investigación: 
 Neurociencias cognitivas, sociales y afectivas. Actualmente me interesa estudiar los cambios neurocognitivos sociales y emocionales asociados a la experiencia reproductiva.
 
-#### Correo electrónico: 
+#### Correo electrónico: :e-mail:
 <azaleara@comunidad.unam.mx> ;
 <azalea@neurocogcialab.org>
 
