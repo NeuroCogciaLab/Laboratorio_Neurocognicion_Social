@@ -4,7 +4,7 @@ layout: default
 
 ## Azalea Reyes Aguilar
 ### Profesor 
-![](aza2.png) { width=50% }
+![](aza2.png)
 
 #### Intereses en investigación: 
 Neurociencias cognitivas, sociales y afectivas. Actualmente me interesa estudiar los cambios neurocognitivos sociales y emocionales asociados a la experiencia reproductiva.
@@ -29,6 +29,7 @@ Neurociencias cognitivas, sociales y afectivas. Actualmente me interesa estudiar
 
 ## Karla Angélica Vargas Reyes
 ### Tesista, Licenciatura en psicología 
+![](karla.png)
 
 #### Correo electrónico:
 <karlangvary@outlook.com>
@@ -40,6 +41,7 @@ Egresada de la Facultad de Psicología, UNAM. Realizó una Estancia de Investiga
 
 ## Ana Karen Rodríguez Chávez 
 ### Servicio Social, Licenciatura en psicología
+![](karen.png)
 
 #### Correo electrónico: 
 <neurokapsi@gmail.com>
@@ -62,6 +64,7 @@ Psicobiología y neurociencias y Enfermedades Neurodegenerativas.
 
 ## Diana Quetzali Ramos Ramírez
 ### Prácticas en investigación, Licenciatura en psicología 
+![](diana.png)
 
 #### Correo electrónico:
 <ramosra.diana475@gmail.com>
@@ -73,6 +76,7 @@ Neurocognición y conducta; enfermedades neurodegenerativas; neurobiología de l
 
 ## Brenda Celeste Díaz Hernández
 ### Prácticas en investigación, Licenciatura en psicología 
+![](celeste.png)
 
 #### Correo electrónico:
 <brenda.celeste.diaz.h@gmail.com>
@@ -84,6 +88,7 @@ Neurocognición; trastornos del sueño; demencias; cognición social y psicolog�
 
 ## Estefanía Pérez Perea
 ### Prácticas en investigación, Licenciatura en psicología 
+![](estefania.png)
 
 #### Correo electrónico:
 <estefaniap.perea@gmail.com>
