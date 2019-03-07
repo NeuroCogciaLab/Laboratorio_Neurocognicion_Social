@@ -1,4 +1,4 @@
----                                                                                                                                                                                                                                                                                                   
+---
 ---
 
 $header-bg-color: rgba(30,87,153,1) !default;
@@ -21,18 +21,18 @@ label.mobile_menu span {
 }
 
 .nav {
- 
-	font-family: 'Orienta', sans-serif; 
+
+	font-family: 'Orienta', sans-serif;
 	font-weight: 400; /* 400 thinner */
 	font-size: 13px;
 	line-height: 13px;
 
- 
+
 	position: fixed;
 	padding: 0 0 0 4px; /* Fix for inline-block spacing*/
 	margin: 0;
-	top: 0; 
-	width: 100%; 
+	top: 0;
+	width: 100%;
 	background: rgba(0, 0, 0, 0);
 }
 
@@ -244,4 +244,13 @@ label.mobile_menu span {
 
 .brand-image {
 	margin: 0px 0px -3px 0px;
+}
+
+.center-image
+{
+    display: block;
+		border-radius: 8px;
+		margin-left: auto;
+		margin-right: auto;
+		width: 50%;
 }
