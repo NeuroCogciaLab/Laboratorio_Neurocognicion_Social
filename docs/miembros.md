@@ -1,12 +1,12 @@
 ---
-layout: default 
+layout: default
 ---
 
 ## Azalea Reyes Aguilar
-### Profesor 
-![](aza2.png)
+### Profesor
+![](aza2.png){: .center-image }
 
-#### Intereses en investigación: 
+#### Intereses en investigación:
 Neurociencias cognitivas, sociales y afectivas. Actualmente me interesa estudiar los cambios neurocognitivos sociales y emocionales asociados a la experiencia reproductiva.
 
 #### Correo electrónico:
@@ -19,7 +19,7 @@ Neurociencias cognitivas, sociales y afectivas. Actualmente me interesa estudiar
 #### GitHub:
 [azaleara](https://github.com/azaleara)
 
-#### Linkedin 
+#### Linkedin
 [Azalea](https://www.linkedin.com/in/azalea-reyes-aguilar-5a328b70)
 
 #### ResearchGate
@@ -28,7 +28,7 @@ Neurociencias cognitivas, sociales y afectivas. Actualmente me interesa estudiar
 **********
 
 ## Karla Angélica Vargas Reyes
-### Tesista, Licenciatura en psicología 
+### Tesista, Licenciatura en psicología
 ![](karla.png)
 
 #### Correo electrónico:
@@ -39,11 +39,11 @@ Egresada de la Facultad de Psicología, UNAM. Realizó una Estancia de Investiga
 
 **********
 
-## Ana Karen Rodríguez Chávez 
+## Ana Karen Rodríguez Chávez
 ### Servicio Social, Licenciatura en psicología
 ![](karen.png)
 
-#### Correo electrónico: 
+#### Correo electrónico:
 <neurokapsi@gmail.com>
 
 #### Intereses en investigación:
@@ -52,7 +52,7 @@ Neurobiología de las adicciones y de las emociones; enfermedades neurodegenerat
 **********
 
 ## Javier Antonio Trocino García
-### Servicio Social, Licenciatura en psicología 
+### Servicio Social, Licenciatura en psicología
 
 #### Correo electrónico:
 <trozorocks@gmail.com>
@@ -63,7 +63,7 @@ Psicobiología y neurociencias y Enfermedades Neurodegenerativas.
 **********
 
 ## Diana Quetzali Ramos Ramírez
-### Prácticas en investigación, Licenciatura en psicología 
+### Prácticas en investigación, Licenciatura en psicología
 ![](diana.png)
 
 #### Correo electrónico:
@@ -75,7 +75,7 @@ Neurocognición y conducta; enfermedades neurodegenerativas; neurobiología de l
 **********
 
 ## Brenda Celeste Díaz Hernández
-### Prácticas en investigación, Licenciatura en psicología 
+### Prácticas en investigación, Licenciatura en psicología
 ![](celeste.png)
 
 #### Correo electrónico:
@@ -87,13 +87,11 @@ Neurocognición; trastornos del sueño; demencias; cognición social y psicolog�
 **********
 
 ## Estefanía Pérez Perea
-### Prácticas en investigación, Licenciatura en psicología 
+### Prácticas en investigación, Licenciatura en psicología
 ![](estefania.png)
 
 #### Correo electrónico:
 <estefaniap.perea@gmail.com>
 
 #### Intereses en investigación:
-Enfermedades neurodegenerativas; neurocognición y actividades culturales. 
-
-
+Enfermedades neurodegenerativas; neurocognición y actividades culturales.
