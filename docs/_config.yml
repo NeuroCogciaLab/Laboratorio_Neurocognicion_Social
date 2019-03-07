@@ -16,4 +16,6 @@ navigation:
   url: /colaboraciones
 - title: Contacto
   url: /contacto
+- title: Eventos
+  url: /eventos
   
