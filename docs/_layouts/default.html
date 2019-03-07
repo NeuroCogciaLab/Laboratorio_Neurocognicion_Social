@@ -12,7 +12,19 @@
       </script>
     {% endif %}
     <meta charset="UTF-8">
+    <script>
+      window.onscroll = function() {scrollFunction()};
 
+      function scrollFunction() {
+        if (document.body.scrollTop > 50 || document.documentElement.scrollTop > 50) {
+          document.getElementsByClassName("brand-image").style.height = '30px';
+          document.getElementsByClassName("brand-image").style.width = '50px';
+        } else {
+          document.getElementsByClassName("brand-image").style.height = '100px';
+          document.getElementsByClassName("brand-image").style.width = '100px';
+        }
+      }
+</script>
 {% seo %}
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="theme-color" content="#157878">
@@ -27,7 +39,7 @@
       <img class="brand-image" src="/assets/img/logo_cerebro.gif"/>
     </header>
 	<div class="container">
-	<div>   
+	<div>
         	<label class="mobile_menu" for="mobile_menu">
         	<span>Menu</span>
         	</label>
@@ -40,7 +52,7 @@
         		{% endif %}
         		<li class="element {% if forloop.first %}first{% endif %} {{ current }} {% if forloop.last %}last{% endif %}">
         		<a href="{{ link.url }}">
-			 	{% if forloop.first %} 
+			 	{% if forloop.first %}
 			 		<img class="brand-image" src="/assets/img/logo_neurocogcialab.png"/>
 			 	{% endif %}
 				{{ link.title }}
