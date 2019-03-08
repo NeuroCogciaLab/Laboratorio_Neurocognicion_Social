@@ -54,14 +54,27 @@ Neurobiología de las adicciones y de las emociones; enfermedades neurodegenerat
 
 **********
 
+## César Daniel Rodríguez Martínez
+### Servicio Social, Licenciatura en psicología
+![](cesar.jpg){: .center-image }
+
+#### Correo electrónico:
+<cesar.rdz.psic@gmail.com>
+
+#### Intereses en investigación:
+Traumatismo craneoencefálico; psicofisiologia, electroencefalografia y potenciales relacionados a eventos.
+
+**********
+
 ## Javier Antonio Trocino García
 ### Servicio Social, Licenciatura en psicología
+![](javier.jpg){: .center-image }
 
 #### Correo electrónico:
 <trozorocks@gmail.com>
 
 #### Intereses en investigación:
-Psicobiología y neurociencias y Enfermedades Neurodegenerativas.
+Psicobiología y neurociencias y enfermedades neurodegenerativas.
 
 **********
 
