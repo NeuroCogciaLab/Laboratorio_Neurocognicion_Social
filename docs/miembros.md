@@ -2,19 +2,22 @@
 layout: default
 ---
 
+
 ## Azalea Reyes Aguilar
 ### Profesor
+
 ![](aza2.jpg){: .center-image }
 
 #### Intereses en investigación:
-Neurociencias cognitivas, sociales y afectivas. Actualmente me interesa estudiar los cambios neurocognitivos sociales y emocionales asociados a la experiencia reproductiva.
+Neurociencias cognitivas, sociales y afectivas. Actualmente me interesa estudiar los cambios neurocognitivos sociales y
+emocionales asociados a la experiencia reproductiva.
 
 #### Correo electrónico:
-<azaleara@comunidad.unam.mx> ;
+<azaleara@comunidad.unam.mx> <br/>
 <azalea@neurocogcialab.org>
 
 #### Twitter:
-[azaleareyaguila](https://twitter.com/azaleareyaguila)
+[@azaleareyaguila](https://twitter.com/azaleareyaguila)
 
 #### GitHub:
 [azaleara](https://github.com/azaleara)
