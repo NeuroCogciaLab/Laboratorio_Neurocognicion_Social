@@ -56,14 +56,16 @@ Neurobiología de las adicciones y de las emociones; enfermedades neurodegenerat
 **********
 
 ## César Daniel Rodríguez Martínez
+{: .member-name}
 ### Servicio Social, Licenciatura en psicología
+{: .member-title}
 ![](cesar.jpg){: .center-image }
 
-#### Correo electrónico:
-<cesar.rdz.psic@gmail.com>
-
 #### Intereses en investigación:
+{: .member-interest }
 Traumatismo craneoencefálico; psicofisiologia, electroencefalografia y potenciales relacionados a eventos.
+
+<i class="fas fa-envelope"></i> <cesar.rdz.psic@gmail.com>
 
 **********
 
