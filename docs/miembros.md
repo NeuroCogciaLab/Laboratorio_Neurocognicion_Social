@@ -35,7 +35,7 @@ emocionales asociados a la experiencia reproductiva.
 #### Intereses en investigación:
 {: .member-interest }
 
-Egresada de la Facultad de Psicología, UNAM. Realizó una Estancia de Investigación en el Instituto de Investigación Biomédica de Cádiz (INIBICA), España; en donde colaboro en un proyecto relacionado con el registro de señales electrofisiológicas en humanos, en colaboración con la Universidad Loyola Andalucía (ULA). Actualmente realiza su tesis de grado en Empatía y Personalidad. Áreas de interés: Neurocognición, empatía, lenguaje.
+Egresada de la Facultad de Psicología, UNAM. Realizó una Estancia de Investigación en el Instituto de Investigación Biomédica de Cádiz (INIBICA), España; en donde colaboró en un proyecto relacionado con el registro de señales electrofisiológicas en humanos, en colaboración con la Universidad Loyola Andalucía (ULA). Actualmente realiza su tesis de grado en Empatía y Personalidad. Áreas de interés: Neurocognición, empatía, lenguaje.
 
 <i class="fas fa-envelope"></i> <karlangvary@outlook.com>
 
@@ -77,7 +77,7 @@ Traumatismo craneoencefálico; psicofisiologia, electroencefalografia y potencia
 
 #### Intereses en investigación:
 {: .member-interest }
-Psicobiología y neurociencias y Enfermedades Neurodegenerativas.
+Psicobiología y neurociencias y enfermedades neurodegenerativas.
 
 <i class="fas fa-envelope"></i> <trozorocks@gmail.com>
 
