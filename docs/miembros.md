@@ -5,7 +5,7 @@ layout: default
 
 ## Azalea Reyes Aguilar
 {: .member-name }
-### Profesor
+### Profesora
 {: .member-title}
 
 ![](aza2.jpg){: .center-image }
