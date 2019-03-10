@@ -2,6 +2,7 @@ locale: es-MX
 title: "Laboratorio de Neurocognición Social"
 description: "Neurocognición Social"
 theme: jekyll-theme-cayman
+google_analytics: UA-135918948-1
 
 navigation:
 - title: 
