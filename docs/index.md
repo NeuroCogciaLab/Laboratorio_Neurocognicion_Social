@@ -16,5 +16,6 @@ Recabar información sobre estas grandes preguntas en psicología nos ayudará a
 
 Nuestras principales actividades como equipo de trabajo abarcan:
   + Construcción de tareas conductuales y paradigmas experimentales en estudios de neuroimagen (imagen por resonancia magnética funcional [IRMf]) para el estudios de procesos cognitivos asociados a la neurocognición social,
-  + Adquisición y análisis de datos en estudios consductuales y de IRMf,
+
+  + Adquisición y análisis de datos en estudios conductuales y de IRMf,
   + Discusión e interpretación de los hallazgos experimentales así como escritura de artículos especializados y de divulgación.
