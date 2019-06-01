@@ -42,6 +42,20 @@ Egresada de la Facultad de Psicología, UNAM. Realizó una Estancia de Investiga
 
 **********
 
+## Diana Mendez
+{: .member-name}
+### Tesista, Licenciatura en psicología
+{: .member-title}
+![](xxx.jpg){: .center-image }
+
+#### Intereses en investigación:
+{: .member-interest }
+Enfermedades neurodegenerativas, psiquiátricas, neuropsicología.
+
+<i class="fas fa-envelope"></i> <dianalaurams@hotmail.com>
+
+**********
+
 ## Ana Karen Rodríguez Chávez
 {: .member-name}
 ### Servicio Social, Licenciatura en psicología
@@ -70,18 +84,18 @@ Traumatismo craneoencefálico; psicofisiologia, electroencefalografia y potencia
 
 **********
 
-## Javier Antonio Trocino García
+## Emma Yolotzin Botello Estrada
 {: .member-name}
 ### Servicio Social, Licenciatura en psicología
 {: .member-title}
-![](javier.jpg){: .center-image }
+![](xxx.jpg){: .center-image }
 
 #### Intereses en investigación:
 {: .member-interest }
 
-Psicobiología y neurociencias y enfermedades neurodegenerativas.
+Neurociencias cognitivas
 
-<i class="fas fa-envelope"></i> <trozorocks@gmail.com>
+<i class="fas fa-envelope"></i> <emma.ybe.1609@gmail.com>
 
 **********
 
@@ -99,28 +113,14 @@ Neurocognición y conducta; enfermedades neurodegenerativas; neurobiología de l
 
 **********
 
-## Brenda Celeste Díaz Hernández
+## Andrea Gómez Silva
 {: .member-name}
 ### Prácticas en investigación, Licenciatura en psicología
 {: .member-title}
-![](celeste.jpg){: .center-image }
+![](xxx.jpg){: .center-image }
 
 #### Intereses en investigación:
 {: .member-interest }
-Neurocognición; trastornos del sueño; demencias; cognición social y psicología organizacional.
+Neurocognición y conducta, neurobiología de la conducta sexual y adicciones, enfermedades neurodegenerativas.
 
-<i class="fas fa-envelope"></i> <brenda.celeste.diaz.h@gmail.com>
-
-**********
-
-## Estefanía Pérez Perea
-{: .member-name}
-### Prácticas en investigación, Licenciatura en psicología
-{: .member-title}
-![](estefania.jpg){: .center-image }
-
-#### Intereses en investigación:
-{: .member-interest }
-Enfermedades neurodegenerativas; neurocognición y actividades culturales.
-
-<i class="fas fa-envelope"></i> <estefaniap.perea@gmail.com>
+<i class="fas fa-envelope"></i> <andgmz06@gmail.com>
