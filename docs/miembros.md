@@ -103,7 +103,7 @@ Neurociencias cognitivas
 {: .member-name}
 ### Prácticas en investigación, Licenciatura en psicología
 {: .member-title}
-![](diana.jpg){: .center-image }
+![](xxx.jpg){: .center-image }
 
 #### Intereses en investigación:
 {: .member-interest }
