@@ -46,7 +46,6 @@ Egresada de la Facultad de Psicología, UNAM. Realizó una Estancia de Investiga
 {: .member-name}
 ### Tesista, Licenciatura en psicología
 {: .member-title}
-![](xxx.jpg){: .center-image }
 
 #### Intereses en investigación:
 {: .member-interest }
@@ -88,7 +87,7 @@ Traumatismo craneoencefálico; psicofisiologia, electroencefalografia y potencia
 {: .member-name}
 ### Servicio Social, Licenciatura en psicología
 {: .member-title}
-![](xxx.jpg){: .center-image }
+![](emma.jpg){: .center-image }
 
 #### Intereses en investigación:
 {: .member-interest }
@@ -103,7 +102,7 @@ Neurociencias cognitivas
 {: .member-name}
 ### Prácticas en investigación, Licenciatura en psicología
 {: .member-title}
-![](xxx.jpg){: .center-image }
+![](oscar.jpg){: .center-image }
 
 #### Intereses en investigación:
 {: .member-interest }
@@ -133,7 +132,7 @@ Neurocognición y conducta; enfermedades neurodegenerativas; neurobiología de l
 {: .member-name}
 ### Prácticas en investigación, Licenciatura en psicología
 {: .member-title}
-![](xxx.jpg){: .center-image }
+![](andrea.jpg){: .center-image }
 
 #### Intereses en investigación:
 {: .member-interest }
@@ -147,7 +146,6 @@ Neurocognición y conducta, neurobiología de la conducta sexual y adicciones, e
 {: .member-name}
 ### Prácticas en investigación, Licenciatura en psicología
 {: .member-title}
-![](xxx.jpg){: .center-image }
 
 #### Intereses en investigación:
 {: .member-interest }
