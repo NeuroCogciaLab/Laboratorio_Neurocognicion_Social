@@ -99,6 +99,22 @@ Neurociencias cognitivas
 
 **********
 
+## Oscar Roa
+{: .member-name}
+### Prácticas en investigación, Licenciatura en psicología
+{: .member-title}
+![](diana.jpg){: .center-image }
+
+#### Intereses en investigación:
+{: .member-interest }
+Mejora (neuroenhancement) de procesos y habilidades cognitivas (e.g. memoria) en personas sanas, modelado computacional en neurociencia cognitiva para comprender mejor el proceso de toma de decisiones.
+
+<i class="fas fa-envelope"></i> <oscaroa196@gmail.com>
+[<i class="fab fa-github fa-2x"></i>](https://github.com/OscaRoa)
+[<i class="fab fa-twitter-square fa-2x"></i>](https://twitter.com/oscaroa96)
+
+**********
+
 ## Diana Quetzali Ramos Ramírez
 {: .member-name}
 ### Prácticas en investigación, Licenciatura en psicología
@@ -124,3 +140,17 @@ Neurocognición y conducta; enfermedades neurodegenerativas; neurobiología de l
 Neurocognición y conducta, neurobiología de la conducta sexual y adicciones, enfermedades neurodegenerativas.
 
 <i class="fas fa-envelope"></i> <andgmz06@gmail.com>
+
+**********
+
+## Emmanuel Rodríguez
+{: .member-name}
+### Prácticas en investigación, Licenciatura en psicología
+{: .member-title}
+![](xxx.jpg){: .center-image }
+
+#### Intereses en investigación:
+{: .member-interest }
+Neurocognición y conducta.
+
+
