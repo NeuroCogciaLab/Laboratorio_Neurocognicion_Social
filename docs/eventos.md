@@ -2,6 +2,22 @@
 layout: default
 ---
 
+# 8vo Encuentro en Neuropsicología, 2019
+
+*5 y 6 de septiembre, 2019 en la facultad de psicología UNAM*
+
+## El laboratorio de neurocognición social, **NeurocogciaLab**, presenta los primeros resultados sobre **cognición social en maternidad** a la comunidad de la facultad de psicología durante el encuentro de neuropsicología, 2019!!!
+
+**********
+
+
+### Estamos muy contentos de compartir con ustedes nuestros intereses en la plática **Plasticidad neuronal, cognición social en la crianza** el jueves, 5 de septiembre, a las 16:00 hrs y el simposio **Primeros hallazgos de la cognición social en la maternidad**, viernes, 6 de septiembre, 2019 a las 16:00 hrs. 
+
+
+**********
+
+
+
 
 # Semana del cerebro, 2019
 
