@@ -42,6 +42,20 @@ Egresada de la Facultad de Psicología, UNAM. Realizó una Estancia de Investiga
 
 **********
 
+## Sandra Álvarez
+{: .member-name}
+### Tesista, Licenciatura en psicología
+{: .member-title}
+![](sandra.jpg){: .center-image }
+
+#### Intereses en investigación:
+{: .member-interest }
+Neurociencias cognitivas y sociales relacionadas con temas de diversidad sexual y género, abordados desde un enfoque biopsicosocial.
+
+<i class="fas fa-envelope"></i> <sandra04sep@gmail.com>
+
+**********
+
 ## Diana Mendez
 {: .member-name}
 ### Tesista, Licenciatura en psicología
