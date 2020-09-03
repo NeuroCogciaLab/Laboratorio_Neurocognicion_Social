@@ -55,6 +55,19 @@ Enfermedades neurodegenerativas, psiquiátricas, neuropsicología.
 
 **********
 
+## Elizabeth Vázquez
+{: .member-name}
+### Tesista, Licenciatura en psicología
+{: .member-title}
+
+#### Intereses en investigación:
+{: .member-interest }
+Neuropsicología, neurociencias cognitivas, enfermedades neurodegenerativas y lenguaje.
+
+<i class="fas fa-envelope"></i> <elizabeth.97.vz@gmail.com>
+
+**********
+
 ## Ana Karen Rodríguez Chávez
 {: .member-name}
 ### Servicio Social, Licenciatura en psicología
@@ -91,8 +104,7 @@ Traumatismo craneoencefálico; psicofisiologia, electroencefalografia y potencia
 
 #### Intereses en investigación:
 {: .member-interest }
-
-Neurociencias cognitivas
+Neurociencias sociales y afectivas. Con particular interés en las bases neurobiológicas  de la empatía, las emociones y la regulación emocional.
 
 <i class="fas fa-envelope"></i> <emma.ybe.1609@gmail.com>
 
@@ -157,13 +169,39 @@ Neurocognición y conducta, neurobiología de la conducta sexual y adicciones, e
 
 **********
 
-## Emmanuel Rodríguez
+## Christian Angelica Cano Tinajero 
 {: .member-name}
 ### Prácticas en investigación, Licenciatura en psicología
 {: .member-title}
 
 #### Intereses en investigación:
 {: .member-interest }
-Neurocognición y conducta.
+Neurociencias cognitivas, evaluación neuropsicologica, neuropsicología, adicciones y neurofarmacologia.
 
+<i class="fas fa-envelope"></i> <chriscanotina@gmail.com>
 
+**********
+
+## Ximena Escutia
+{: .member-name}
+### Prácticas en investigación.
+{: .member-title}
+
+#### Intereses en investigación:
+{: .member-interest }
+Neurociencias cognitivas,
+
+<i class="fas fa-envelope"></i> <xime.yali@live.com.mx>
+
+**********
+
+## Itztli Isis Vazquez San Juan
+{: .member-name}
+### Prácticas en investigación.
+{: .member-title}
+
+#### Intereses en investigación:
+{: .member-interest }
+Neurociencias cognitivas,
+
+<i class="fas fa-envelope"></i> <itztliisisvazsan@hotmail.com>
