@@ -114,6 +114,21 @@ Mejora (neuroenhancement) de procesos y habilidades cognitivas (e.g. memoria) en
 
 **********
 
+## Emmanuel Rodríguez Sánchez
+{: .member-name}
+### Asistente de investigación, Licenciatura en psicología
+{: .member-title}
+![](emmanuel.jpg){: .center-image }
+
+#### Intereses en investigación:
+{: .member-interest }
+
+Estudiante de la Facultad de Psicología, UNAM. Actualmente, realiza un proyecto de investigación sobre el uso de emojis en la comunicación por texto. Intereses en investigación: lenguaje, conducta, neurocognición, neurobiología de los trastornos psiquiátricos (depresión, ansiedad, etc) y psiconeuroinmunología.
+
+<i class="fas fa-envelope"></i> <emmanuelrodsan0@gmail.com>
+
+**********
+
 ## Diana Quetzali Ramos Ramírez
 {: .member-name}
 ### Prácticas en investigación, Licenciatura en psicología
