@@ -70,7 +70,7 @@ Neuropsicología, neurociencias cognitivas, enfermedades neurodegenerativas y le
 
 ## Ana Karen Rodríguez Chávez
 {: .member-name}
-### Servicio Social, Licenciatura en psicología
+### Tesista, Licenciatura en psicología
 {: .member-title}
 ![](karen.jpg){: .center-image }
 
@@ -84,7 +84,7 @@ Neurobiología de las adicciones y de las emociones; enfermedades neurodegenerat
 
 ## César Daniel Rodríguez Martínez
 {: .member-name}
-### Servicio Social, Licenciatura en psicología
+### Tesista, Licenciatura en psicología
 {: .member-title}
 ![](cesar.jpg){: .center-image }
 
@@ -197,7 +197,7 @@ Neurociencias cognitivas,
 
 ## Itztli Isis Vazquez San Juan
 {: .member-name}
-### Prácticas en investigación.
+### Prácticas en investigación, Licenciatura en psicología
 {: .member-title}
 
 #### Intereses en investigación:
