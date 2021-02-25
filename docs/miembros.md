@@ -56,19 +56,6 @@ Neurociencias cognitivas y sociales relacionadas con temas de diversidad sexual 
 
 **********
 
-## Diana Mendez
-{: .member-name}
-### Tesista, Licenciatura en psicología
-{: .member-title}
-
-#### Intereses en investigación:
-{: .member-interest }
-Enfermedades neurodegenerativas, psiquiátricas, neuropsicología.
-
-<i class="fas fa-envelope"></i> <dianalaurams@hotmail.com>
-
-**********
-
 ## Elizabeth Vázquez
 {: .member-name}
 ### Tesista, Licenciatura en psicología
