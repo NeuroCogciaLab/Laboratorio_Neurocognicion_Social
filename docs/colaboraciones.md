@@ -7,6 +7,10 @@ Como grupo de trabajo, nos interesa colaborar con otros laboratorios de la UNAM.
 ## Colaboramos con AprendR
 Como parte de las actividades que realizamos en el laboratorio, desarrollamos aplicaciones en R y Python para el procesamiento de datos e implementación de modelos estadísticos. También impartimos cursos y talleres de R y de la plataforma Psychopy (Python), esto en colaboración con la iniciativa [aprendr.org](https://aprendr.org/).
 
+## Con la universidad de Loyola, Campus Sevilla, España.
+Loyola HEALTH, Neuropsicología aplicada/Applied Neuropsychology a cargo de la Dra. Federica Sassi.
+
+
 ### *Un código libre para una psicología replicable*
 Otro de los objetivos centrales que acompaña a nuestras actividades es mejorar las transparencia y replicabilidad de la investigación en psicología, para lo cual buscamos mantenernos activos en plataformas como github, Open Science Reproducibility Project, Human Connectome Project.
 

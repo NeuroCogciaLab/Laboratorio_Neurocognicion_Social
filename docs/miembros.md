@@ -80,19 +80,6 @@ Neuropsicología, neurociencias cognitivas, enfermedades neurodegenerativas y le
 
 <i class="fas fa-envelope"></i> <elizabeth.97.vz@gmail.com>
 
-**********
-
-## Ana Karen Rodríguez Chávez
-{: .member-name}
-### Tesista, Licenciatura en psicología
-{: .member-title}
-![](karen.jpg){: .center-image }
-
-#### Intereses en investigación:
-{: .member-interest }
-Neurobiología de las adicciones y de las emociones; enfermedades neurodegenerativas y del neurodesarrollo; neurobiología de la conducta social modulada por diferentes contextos.
-
-<i class="fas fa-envelope"></i> <neurokapsi@gmail.com>
 
 **********
 
@@ -122,21 +109,6 @@ Neurociencias sociales y afectivas. Con particular interés en las bases neurobi
 
 <i class="fas fa-envelope"></i> <emma.ybe.1609@gmail.com>
 
-**********
-
-## Oscar Roa
-{: .member-name}
-### Prácticas en investigación, Licenciatura en psicología
-{: .member-title}
-![](oscar.jpg){: .center-image }
-
-#### Intereses en investigación:
-{: .member-interest }
-Mejora (neuroenhancement) de procesos y habilidades cognitivas (e.g. memoria) en personas sanas, modelado computacional en neurociencia cognitiva para comprender mejor el proceso de toma de decisiones.
-
-<i class="fas fa-envelope"></i> <oscaroa196@gmail.com>
-[<i class="fab fa-github fa-2x"></i>](https://github.com/OscaRoa)
-[<i class="fab fa-twitter-square fa-2x"></i>](https://twitter.com/oscaroa96)
 
 **********
 
@@ -216,6 +188,20 @@ Neurociencias cognitivas,
 
 #### Intereses en investigación:
 {: .member-interest }
-Neurociencias cognitivas,
+Neurociencias cognitivas
 
 <i class="fas fa-envelope"></i> <itztliisisvazsan@hotmail.com>
+
+**********
+
+## Diana Laura Armenta Tezcucano
+{: .member-name}
+### Prácticas en investigación, Licenciatura en psicología
+{: .member-title}
+![](diana_a.jpg){: .center-image }
+
+#### Intereses en investigación:
+{: .member-interest }
+Neurociencias cognitivas y neuropsicología; regulación emocional, empatía y estrés.
+
+<i class="fas fa-envelope"></i> <diana.armenta24@gmail.com>
